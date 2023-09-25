@@ -1,2 +1,7 @@
 python3
-python 
+python Libraries:-
+import tkinter 
+from tkinter import messagebo
+from bs4 import BeautifulSoup
+import requests
+import pandas 
